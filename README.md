@@ -1,0 +1,1 @@
+IndusCycle is an AI-powered industrial waste exchange platform that connects waste producers with compatible buyers using intelligent matching, predictive analytics, logistics optimization, and ESG impact tracking to support circular supply chains.
