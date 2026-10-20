@@ -259,12 +259,6 @@ Returns a ranked list of matches with percentage scores and human-readable reaso
 
 ---
 
-## 👥 Team
-
-**Team CODELITE** — Built for CodeLite Hacks 2026
-
----
-
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
